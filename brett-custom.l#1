@@ -73,16 +73,16 @@
 &lt;author&gt;librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
 <package name="7-SEG-ASD-230CI">
-<pad name="P$8" x="0" y="30.3" drill="0.8" rot="R180"/>
-<pad name="P$9" x="-2.54" y="30.3" drill="0.8"/>
-<pad name="P$7" x="2.54" y="30.3" drill="0.8"/>
-<pad name="P$10" x="-5.08" y="30.3" drill="0.8"/>
-<pad name="P$6" x="5.08" y="30.3" drill="0.8"/>
-<pad name="P$3" x="0" y="-30.3" drill="0.8"/>
-<pad name="P$2" x="-2.54" y="-30.3" drill="0.8"/>
-<pad name="P$4" x="2.54" y="-30.3" drill="0.8"/>
-<pad name="P$1" x="-5.08" y="-30.3" drill="0.8" shape="octagon"/>
-<pad name="P$5" x="5.08" y="-30.3" drill="0.8" shape="octagon"/>
+<pad name="P$8" x="0" y="30.375" drill="0.65" rot="R180"/>
+<pad name="P$9" x="-2.54" y="30.375" drill="0.65"/>
+<pad name="P$7" x="2.54" y="30.375" drill="0.65"/>
+<pad name="P$10" x="-5.08" y="30.375" drill="0.65"/>
+<pad name="P$6" x="5.08" y="30.375" drill="0.65"/>
+<pad name="P$3" x="0" y="-30.375" drill="0.65"/>
+<pad name="P$2" x="-2.54" y="-30.375" drill="0.65"/>
+<pad name="P$4" x="2.54" y="-30.375" drill="0.65"/>
+<pad name="P$1" x="-5.08" y="-30.375" drill="0.65" shape="octagon"/>
+<pad name="P$5" x="5.08" y="-30.375" drill="0.65" shape="octagon"/>
 <wire x1="-24" y1="35" x2="24" y2="35" width="0.127" layer="51"/>
 <wire x1="24" y1="35" x2="24" y2="-35" width="0.127" layer="51"/>
 <wire x1="24" y1="-35" x2="-24" y2="-35" width="0.127" layer="51"/>

@@ -69,8 +69,8 @@
 <layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
 </layers>
 <library>
-<description>&lt;b&gt;KINGBRIGHT Numeric Displays&lt;/b&gt;&lt;p&gt;
-&lt;author&gt;librarian@cadsoft.de&lt;/author&gt;</description>
+<description>&lt;b&gt;Brett's Custom Parts&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;brett@brett.geek.nz&lt;/author&gt;</description>
 <packages>
 <package name="7-SEG-ASD-230CI">
 <pad name="P$8" x="0" y="30.375" drill="0.65" rot="R180"/>
