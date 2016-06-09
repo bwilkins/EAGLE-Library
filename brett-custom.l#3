@@ -296,10 +296,10 @@
 <package name="UMT6">
 <description>&lt;b&gt;UMT5 Package&lt;/b&gt;&lt;p&gt;
 Source: http://www.rohm.com/products/databook/tr/pdf/uml4n.pdf</description>
-<wire x1="-0.625" y1="0.95" x2="0.625" y2="0.95" width="0.1016" layer="21"/>
-<wire x1="0.625" y1="0.95" x2="0.625" y2="-0.95" width="0.1016" layer="21"/>
-<wire x1="0.625" y1="-0.95" x2="-0.625" y2="-0.95" width="0.1016" layer="21"/>
-<wire x1="-0.625" y1="-0.95" x2="-0.625" y2="0.95" width="0.1016" layer="21"/>
+<wire x1="-0.625" y1="1" x2="0.625" y2="1" width="0.1016" layer="21"/>
+<wire x1="0.625" y1="1" x2="0.625" y2="-1" width="0.1016" layer="21"/>
+<wire x1="0.625" y1="-1" x2="-0.625" y2="-1" width="0.1016" layer="21"/>
+<wire x1="-0.625" y1="-1" x2="-0.625" y2="1" width="0.1016" layer="21"/>
 <circle x="-0.375" y="0.75" radius="0.103" width="0" layer="21"/>
 <smd name="1" x="-0.925" y="0.65" dx="0.5" dy="0.3" layer="1" stop="no" cream="no"/>
 <smd name="2" x="-0.925" y="0" dx="0.5" dy="0.3" layer="1" stop="no" cream="no"/>
